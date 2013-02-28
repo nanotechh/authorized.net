@@ -1,0 +1,18 @@
+create new test account:-
+url:---http://developer.authorize.net/testaccount/
+signup with no card while choosing radio buttons during signup 
+
+reffrence site:---
+
+Site url  ===
+http://vikku.info/programming/payment-gateway/authorize.net-credit-card-payment-gateway-integration-sample-code-AIM.htm
+http://localhost/direct%20post/
+
+Card Not Present Test Account
+
+API Login ID 8B4wX4gx
+
+Transaction Key 8zhM2j963WjaV2PF
+
+uname:---nehapuri48
+pwd:---One23456
